@@ -24,7 +24,7 @@ npm install prompt-sync
 ```
 3. Make a new terminal and run the command.
 ```sh
- node main
+ node facebook
  ```
 4. Press tab then hit enter.
 <br>
