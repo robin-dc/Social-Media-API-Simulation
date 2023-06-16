@@ -18,6 +18,8 @@ https://nodejs.org/en/download/
 2. Install dependencies
 ```sh
 npm install colors
+```
+```sh
 npm install prompt-sync
 ```
 3. Make a new terminal and run the command.
